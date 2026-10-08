@@ -1,0 +1,7 @@
+- Prefers communicating in Bahasa Indonesia. Confidence: 0.8
+- Wants existing practical/course materials preserved when customizing content — swap the content/branding but keep required structure, accessibility, and lab requirements intact. Confidence: 0.7
+- Prefers providing reference material as local file paths (e.g. a markdown concept doc or PDF module) for the agent to read, rather than pasting the content inline. Confidence: 0.6
+- Wants UI designs to be accessible and colorblind-friendly — clear, high-contrast visuals that don't rely on color alone to convey meaning. Confidence: 0.8
+- Prefers an elegant, polished/attractive look when building or redesigning interfaces. Confidence: 0.7
+- Prefers incremental, scoped work — complete only the explicitly requested part (e.g. page + layout) and stop there, leaving the rest for later. Confidence: 0.8
+- Prioritizes a working local dev environment as the key success criterion — "the important thing is it can run `npm run dev` locally" outweighs finishing everything at once. Confidence: 0.7

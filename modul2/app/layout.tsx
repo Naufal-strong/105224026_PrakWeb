@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio Naufal ",
-  description: "Portfolio Naufal Fakhrianto Nugroho",
+  title: "Tripleemat Security Assessor",
+  description:
+    "Platform automated security & compliance assessment berdasarkan OWASP ASVS dan NIST SP 800-53.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
